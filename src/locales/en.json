@@ -1,0 +1,212 @@
+{
+    "nav": [
+        {
+            "label": "home",
+            "href": "#home"
+        },
+        {
+            "label": "about Us",
+            "href": "#about-us"
+        },
+        {
+            "label": "Products",
+            "href": "#products"
+        },
+        {
+            "label": "Contact Us",
+            "href": "#contact-us"
+        }
+    ],
+    "hero": {
+        "header": "<span className='xl:bg-white xl:whitespace-nowrap relative z-10 pr-10'> dragon shoes</span>",
+        "desc": "Discover the fusion of technology and style as you explore the diverse range of colors, patterns, and materials. The new <span class='text-coral-red inline-block'>dragon shoes </span>  are more than just footwear they are a testament to a lifestyle fueled by passion and authenticity.",
+        "shopButton": "shop now",
+        "statistics": [
+            {
+                "value": "1000",
+                "label": "Brands"
+            },
+            {
+                "value": "500+",
+                "label": "Shops"
+            },
+            {
+                "value": "250k+",
+                "label": "Customers"
+            }
+        ]
+    },
+    "popularProducts": {
+        "title": "Our <span class='text-coral-red'>Popular</span> Products",
+        "subTitle": "Experience excellence in style and quality. Discover comfort, design, and unbeatable value with our sought-after selections."
+    },
+    "products": [
+        {
+            "imgURL": "https://i.ibb.co/s62cj0c/item-10.jpg",
+            "name": "Elite Runner X Series",
+            "price": "129.99",
+            "Rating": "4.5"
+        },
+        {
+            "imgURL": "https://i.ibb.co/vLRqj36/item-22.jpg",
+            "name": "Elite Runner X Series",
+            "price": "129.99",
+            "Rating": "4.5"
+        },
+        {
+            "imgURL": "https://i.ibb.co/xm6JkGZ/item-24.jpg",
+            "name": "Elite Runner X Series",
+            "price": "50.99",
+            "Rating": "3.5"
+        },
+        {
+            "imgURL": "https://i.ibb.co/BC2j1xT/item-29.jpg",
+            "name": "Elite Runner X Series",
+            "price": "30.99",
+            "Rating": "2.5"
+        }
+    ],
+    "SuperQuality": {
+        "title": "We offer <span class='text-coral-red'> premium-quality</span> footwear for you.",
+        "subTitle": "Experience the epitome of comfort and style with our carefully crafted footwear, meticulously designed to elevate your every step. Our commitment to quality, innovation, and a touch of elegance ensures an unparalleled experience.",
+        "paragraph": "We are devoted to precision and excellence, guaranteeing your utmost satisfaction.",
+        "viewButton": {
+            "label": "see more"
+        }
+    },
+    "Services": [
+        {
+            "imgURL": "https://cdn-icons-png.flaticon.com/128/2203/2203155.png",
+            "label": "Free shipping",
+            "subtext": "Enjoy seamless shopping with our complimentary shipping service."
+        },
+        {
+            "imgURL": "https://cdn-icons-png.flaticon.com/128/1161/1161388.png",
+            "label": "Secure Payment",
+            "subtext": "Experience worry-free transactions with our secure payment options."
+        },
+        {
+            "imgURL": "https://cdn-icons-png.flaticon.com/128/2597/2597143.png",
+            "label": "Love to help you",
+            "subtext": "Our dedicated team is here to assist you every step of the way."
+        }
+    ],
+    "OfferForYou": {
+        "header": "Offer for <span class='text-coral-red'>you</span> Offer",
+        "paragraph1": "Embark on a shopping adventure that transforms your experience with irresistible deals. Featuring top-notch selections and incredible savings, we provide unmatched value, setting ourselves apart from the rest.",
+        "paragraph2": "Navigate a realm of possibilities designed to fulfill your unique desires, surpassing the loftiest expectations. Your journey with us is nothing short of exceptional.",
+        "shopNowButton": "shopping now",
+        "LearnMore": "Learn more"
+    },
+    "customerReviews": {
+        "title": "How Our <span class='text-coral-red'> Customers</span> Express Their Satisfaction?",
+        "paragraph": "Listen to authentic tales from our delighted customers as they share their extraordinary experiences with us.",
+        "reviews": [
+            {
+                "imgURL": "https://t3.ftcdn.net/jpg/03/02/88/46/360_F_302884605_actpipOdPOQHDTnFtp4zg4RtlWzhOASp.jpg",
+                "customerName": "Morich Brown",
+                "rating": "4.3",
+                "feedback": "Incredible quality and comfort! The shoes exceeded my expectations. The attention to detail in design and craftsmanship is superb. I highly recommend this brand."
+            },
+            {
+                "imgURL": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
+                "customerName": "Morich Brown",
+                "rating": "2.2",
+                "feedback": "These shoes are fantastic! Stylish, durable, and the fit is perfect. I've received numerous compliments on the design. A great buy for anyone seeking both fashion and comfort"
+            },
+            {
+                "imgURL": "https://img.freepik.com/free-photo/happy-bearded-man-business-clothes-looking-camera_171337-11392.jpg",
+                "customerName": "Morich Brown",
+                "rating": "3.2",
+                "feedback": "Impressed with the variety! The shoe collection offers a wide range of styles for different occasions. While the quality is commendable, I wish there were more color options. Overall, a solid choice."
+            },
+            {
+                "imgURL": "https://cdn.create.vista.com/api/media/small/204123334/stock-photo-portrait-bearded-smiling-man-shirt-isolated-white",
+                "customerName": "Morich Brown",
+                "rating": "4.9",
+                "feedback": "Exceptional customer service! I had an issue with sizing, and the support team was incredibly helpful in resolving it. The shoes are not only stylish but also backed by excellent service. Highly satisfied!"
+            }
+        ]
+    },
+    "subscribe": {
+        "title": "Sign Up for <span class='text-coral-red'> Updates </span>& Newsletter",
+        "signUpbutton": "sign up"
+    },
+    "button": {
+        "label": "shop now"
+    },
+    "footer": {
+        "paragraph": "Get shoes ready for the new term at your nearest <span class='text-coral-red'>dragon</span> store. Find Your perfect Size In Store. Get Rewards",
+        "links": [
+            {
+                "title": "Products",
+                "links": [
+                    {
+                        "name": "Air Force 1",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Air Max 1",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Air Jordan 1",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Air Force 2",
+                        "link": "/"
+                    },
+                    {
+                        "name": "dragon Waffle Racer",
+                        "link": "/"
+                    },
+                    {
+                        "name": "dragon Cortez",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "title": "Help",
+                "links": [
+                    {
+                        "name": "About us",
+                        "link": "/"
+                    },
+                    {
+                        "name": "FAQs",
+                        "link": "/"
+                    },
+                    {
+                        "name": "How it works",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Privacy policy",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Payment policy",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "title": "Get in touch",
+                "links": [
+                    {
+                        "name": "customer@dragon.com",
+                        "link": "mailto:customer@dragon.com"
+                    },
+                    {
+                        "name": "+92554862354",
+                        "link": "tel:+92554862354"
+                    }
+                ]
+            }
+        ],
+        "copyRights": "Copyright. All rights reserved.",
+        "term": "Terms & Conditions"
+    }
+}

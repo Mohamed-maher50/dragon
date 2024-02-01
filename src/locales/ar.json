@@ -1,0 +1,209 @@
+{
+    "nav": [
+        {
+            "label": "الرئسية",
+            "href": "#home"
+        },
+        {
+            "label": "من نحن",
+            "href": "#about-us"
+        },
+        {
+            "label": "المنتاجات",
+            "href": "#products"
+        },
+        {
+            "label": "تواصل معانا",
+            "href": "#contact-us"
+        }
+    ],
+    "hero": {
+        "header": "<span className='xl:bg-white xl:whitespace-nowrap relative z-10 pr-10'> dragon shoes</span>",
+        "desc": "اكتشف مزيج التكنولوجيا والأناقة بينما تستكشف مجموعة متنوعة من الألوان والأنماط والمواد. إن <span class='text-coral-red inline-block'>dragon shoes </span> الجديدة هي أكثر من مجرد أحذية، فهي شهادة على أسلوب حياة يغذيه الشغف والأصالة",
+        "shopButton": "تسوق الان",
+        "statistics": [
+            {
+                "value": "1000",
+                "label": "العلامات التجارية"
+            },
+            {
+                "value": "500+",
+                "label": "محلات"
+            },
+            {
+                "value": "250k+",
+                "label": "عملاء"
+            }
+        ]
+    },
+    "popularProducts": {
+        "title": "منتجاتنا <span class='text-coral-red'>شائع</span>",
+        "subTitle": "تجربة التميز في الأسلوب والجودة. اكتشف الراحة والتصميم والقيمة التي لا تقبل المنافسة من خلال اختياراتنا المرغوبة."
+    },
+    "products": [
+        {
+            "imgURL": "https://i.ibb.co/s62cj0c/item-10.jpg",
+            "name": "سلسلة النخبة عداء X",
+            "price": "129.99",
+            "Rating": "4.5"
+        },
+        {
+            "imgURL": "https://i.ibb.co/vLRqj36/item-22.jpg",
+            "name": "سلسلة النخبة عداء X",
+            "price": "129.99",
+            "Rating": "4.5"
+        },
+        {
+            "imgURL": "https://i.ibb.co/xm6JkGZ/item-24.jpg",
+            "name": "سلسلة النخبة عداء X",
+            "price": "50.99",
+            "Rating": "3.5"
+        },
+        {
+            "imgURL": "https://i.ibb.co/BC2j1xT/item-29.jpg",
+            "name": "سلسلة النخبة عداء X",
+            "price": "30.99",
+            "Rating": "2.5"
+        }
+    ],
+    "SuperQuality": {
+        "title": "نحن نقدم لك أحذية <span class='text-coral-red'> عالية الجودة</span>.",
+        "subTitle": "استمتع بتجربة الراحة والأناقة مع أحذيتنا المصنوعة بعناية، والمصممة بدقة للارتقاء بكل خطوة. يضمن التزامنا بالجودة والابتكار ولمسة الأناقة تجربة لا مثيل لها.",
+        "paragraph": "نحن ملتزمون بالدقة والتميز، مما يضمن رضاكم الأقصى.",
+        "viewButton": {
+            "label": "شاهد المزيد"
+        }
+    },
+    "Services": [
+        {
+            "imgURL": "https://cdn-icons-png.flaticon.com/128/2203/2203155.png",
+            "label": "ًالشحن مجانا",
+            "subtext": "استمتع بالتسوق السلس مع خدمة الشحن المجانية لدينا."
+        },
+        {
+            "imgURL": "https://cdn-icons-png.flaticon.com/128/1161/1161388.png",
+            "label": "دفع امن",
+            "subtext": "استمتع بمعاملات خالية من القلق مع خيارات الدفع الآمنة لدينا."
+        },
+        {
+            "imgURL": "https://cdn-icons-png.flaticon.com/128/2597/2597143.png",
+            "label": "أحب أن أساعدك",
+            "subtext": "فريقنا المتخصص موجود لمساعدتك في كل خطوة على الطريق."
+        }
+    ],
+    "OfferForYou": {
+        "header": "العرض <span class='text-coral-red'>لك</span>",
+        "paragraph1": "انطلق في مغامرة تسوق ستغير تجربتك بعروض لا تقاوم. تتميز باختيارات رفيعة المستوى ووفورات مذهلة، ونحن نقدم قيمة لا مثيل لها، ونميز أنفسنا عن الباقي.",
+        "paragraph2": "انتقل إلى عالم من الإمكانيات المصممة لتحقيق رغباتك الفريدة، وتجاوز أسمى التوقعات. رحلتك معنا ليست أقل من استثنائية.",
+        "shopNowButton": "التسوق الآن",
+        "LearnMore": "شاهد المزيد"
+    },
+    "customerReviews": {
+        "title": "كيف يعبر عملاؤنا <span class='text-coral-red'></span> عن رضاهم؟",
+        "paragraph": "استمع إلى حكايات أصلية من عملائنا السعداء وهم يشاركون تجاربهم غير العادية معنا.",
+        "reviews": [
+            {
+                "imgURL": "https://t3.ftcdn.net/jpg/03/02/88/46/360_F_302884605_actpipOdPOQHDTnFtp4zg4RtlWzhOASp.jpg",
+                "customerName": "Morich Brown",
+                "rating": "4.3",
+                "feedback": "جودة وراحة لا تصدق! الأحذية تجاوزت توقعاتي. الاهتمام بالتفاصيل في التصميم والحرفية رائع. أوصي بشدة بهذه العلامة التجارية."
+            },
+            {
+                "imgURL": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
+                "customerName": "Morich Brown",
+                "rating": "2.2",
+                "feedback": "هذه الأحذية رائعة! أنيق ومتين وملاءمة مثالية. لقد تلقيت العديد من الثناء على التصميم. شراء رائع لأي شخص يبحث عن الموضة والراحة"
+            },
+            {
+                "imgURL": "https://img.freepik.com/free-photo/happy-bearded-man-business-clothes-looking-camera_171337-11392.jpg",
+                "customerName": "Morich Brown",
+                "rating": "3.2",
+                "feedback": "أعجب بالتنوع! تقدم مجموعة الأحذية مجموعة واسعة من الأساليب لمختلف المناسبات. في حين أن الجودة جديرة بالثناء، أتمنى أن يكون هناك المزيد من خيارات الألوان. على العموم اختيار قوي ."
+            },
+            {
+                "imgURL": "https://cdn.create.vista.com/api/media/small/204123334/stock-photo-portrait-bearded-smiling-man-shirt-isolated-white",
+                "customerName": "Morich Brown",
+                "rating": "4.9",
+                "feedback": "خدمة عملاء استثنائية! لقد واجهت مشكلة تتعلق بالحجم، وكان فريق الدعم مفيدًا للغاية في حلها. الأحذية ليست أنيقة فحسب، بل مدعومة أيضًا بالخدمة الممتازة. راض للغاية!"
+            }
+        ]
+    },
+    "subscribe": {
+        "title": "قم بالتسجيل للحصول على تحديثات <span class='text-coral-red'> </span> والنشرة الإخبارية",
+        "signUpbutton": "اشتراك"
+    },
+    "footer": {
+        "paragraph": "جهّز الأحذية للموسم الجديد في متجر <span class='text-coral-red'>dragon</span> الأقرب إليك. ابحث عن مقاسك المثالي في المتجر. احصل على المكافآت",
+        "links": [
+            {
+                "title": "منتجات",
+                "links": [
+                    {
+                        "name": "القوة الجوية 1",
+                        "link": "/"
+                    },
+                    {
+                        "name": "اير ماكس 1",
+                        "link": "/"
+                    },
+                    {
+                        "name": "طيران الأردن 1",
+                        "link": "/"
+                    },
+                    {
+                        "name": "القوة الجوية 2",
+                        "link": "/"
+                    },
+                    {
+                        "name": "التنين الهراء المتسابق",
+                        "link": "/"
+                    },
+                    {
+                        "name": "التنين كورتيز",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "title": "خدمة العملاء",
+                "links": [
+                    {
+                        "name": "معلومات عنا",
+                        "link": "/"
+                    },
+                    {
+                        "name": "الأسئلة الشائعة",
+                        "link": "/"
+                    },
+                    {
+                        "name": "كيف تعمل",
+                        "link": "/"
+                    },
+                    {
+                        "name": "سياسة الخصوصية",
+                        "link": "/"
+                    },
+                    {
+                        "name": "الية الدفع",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "title": "ابقى على تواصل",
+                "links": [
+                    {
+                        "name": "customer@dragon.com",
+                        "link": "mailto:customer@dragon.com"
+                    },
+                    {
+                        "name": "01062616043",
+                        "link": "tel:+01151999565"
+                    }
+                ]
+            }
+        ],
+        "copyRights": "حقوق النشر. كل الحقوق محفوظة.",
+        "term": "البنود و الظروف"
+    }
+}
